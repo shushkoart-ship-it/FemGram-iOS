@@ -2,7 +2,7 @@
 
 > **Your chat. Your rules. No limits.**
 
-FemGram is a powerful, feature-packed fork of Telegram for iOS, built on top of the official open-source client. It combines all the advanced features of AyuGram with exclusive FemGram tweaks — giving you complete control over your messaging experience.
+FemGram is a powerful, feature-packed Telegram client for iOS, built on top of the official open-source Telegram code. It gives you complete control over your messaging experience with advanced privacy tools, customization options, and exclusive features you won't find anywhere else.
 
 ---
 
@@ -30,8 +30,8 @@ FemGram is a powerful, feature-packed fork of Telegram for iOS, built on top of 
 - Block messages from blocked users
 - Import/export filter lists
 
-### 🔄 AyuForward
-- Forward messages from no-forward channels
+### 🔄 FemForward
+- Forward messages from restricted channels
 - Auto-download media
 - Forward without author attribution
 
@@ -53,7 +53,7 @@ FemGram is a powerful, feature-packed fork of Telegram for iOS, built on top of 
 - Font size control
 - Import custom `.ttf` / `.otf` fonts
 
-### 🛠️ FemGram Exclusive Tweaks (17+)
+### 🛠️ FemGram Exclusive Features
 - Auto-reply by keywords
 - Hidden chats (with swipe-to-hide)
 - IP whitelist for access control
@@ -64,13 +64,8 @@ FemGram is a powerful, feature-packed fork of Telegram for iOS, built on top of 
 - Emoji replacement
 - Disable stickers/GIF animations
 - Call auto-responder
-- And much more...
-
-### 📦 Extra AyuGram Features
-- Peek Online
 - Message Shot (screenshot creator)
 - Streamer Mode
-- Disable similar channels
 - Custom context menu
 - Application icon picker
 - And 30+ more...
@@ -87,7 +82,7 @@ FemGram is a powerful, feature-packed fork of Telegram for iOS, built on top of 
 ## 🛡️ Privacy & Safety
 
 - All features are **client-side only**
-- Your account stays safe — FemGram pretends to be the official Telegram client
+- Your account stays safe — FemGram uses official Telegram API
 - No bans — we use official API keys
 - IP whitelist for additional local security
 
@@ -131,18 +126,18 @@ Installation on iPhone
 
 📚 Documentation
 
-Full documentation and patch list are available in the /docs folder.
+Full documentation is available in the /docs folder.
 
 · Features List
-· How to Apply Patches
+· Installation Guide
 · Customization Guide
 
 ---
 
 🤝 Contributing
 
-Want to add your own tweak?
-Feel free to fork, add your feature, and submit a pull request.
+Want to add your own feature?
+Feel free to fork, add your tweak, and submit a pull request.
 
 Please read our Contributing Guide before submitting.
 
@@ -162,12 +157,10 @@ See the LICENSE file for full details.
 
 ---
 
-❤️ Credits & Acknowledgments
+❤️ Credits
 
-· Telegram — for the original client
-· AyuGram — for inspiration and core features
-· exteraGram — for Android references
-· All open-source contributors
+· Telegram — for the original open-source client
+· All open-source contributors who made this possible
 
 ---
 
